@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pranaypsurve
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning React Basics
+- 📫 How to reach me ... pranaysurve51@gmail.com
 
 <!---
 pranaypsurve/pranaypsurve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
